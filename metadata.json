@@ -1,0 +1,6 @@
+{
+  "name": "AI Canvas Workspace",
+  "description": "An Excalidraw-based workspace featuring a Gemini-powered AI collaborator that can perceive your drawings and help you create.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
